@@ -157,11 +157,11 @@ like this in your `temp-credentials.txt`:
 ```
 heroku.app: jpa03-cgaucho
 heroku.url: https://jpa03-cgaucho.herokuapp.com
-auth0.tenant: ucsb-cs156-cgaucho
-auth0.domain:
-auth0.clientId: 
-google.clientId:
-google.clientSecret: 
+auth0.tenant: ucsb-cs156-yilin-wang
+auth0.domain: ucsb-cs156-yilin-wang.us.auth0.com
+auth0.clientId: avQY5FxwF653whg1gtLwAigw8yS5Vt9H
+google.clientId: 396631522665-e17rmpv6dem3hnhfi1rt4toi0s14n2t0.apps.googleusercontent.com
+google.clientSecret: PF0kHxOBQ77gOgIAv5E8-haA
 ```
 
 ## Step 3: Set up new Auth0 application
