@@ -2,17 +2,11 @@
 
 Repo: https://github.com/ucsb-cs156-s21/jpa03-michaelwyl
 
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://jpa03-cgaucho.herokuapp.com
-
-
-On Heroku: https://jpa03-cgaucho.herokuapp.com
+On Heroku: https://jpa03-yilin-wang.herokuapp.com/
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-michaelwyl
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-michaelwyl/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-michaelwyl)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-michaelwyl/branch/main/graph/badge.svg?token=TjAo15XFHn)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-michaelwyl)
 
 
 ## Integrations
